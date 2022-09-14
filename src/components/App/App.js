@@ -1,9 +1,9 @@
 
 function App() {
   return (
-    <div className="App">
+    <section className="App">
       
-    </div>
+    </section>
   );
 }
 
